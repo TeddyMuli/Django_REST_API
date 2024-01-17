@@ -16,7 +16,7 @@ source virt/Scripts/activate
 ```
 4. Git Clone
 ``` bash
-git clone 
+git clone https://github.com/TeddyMuli/Django_REST_API.git
 ```
 5. Install django and django_rest_framework
 ``` bash
